@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Nep-Punks/static/css/main.c946a49a.css",
+    "main.js": "/Nep-Punks/static/js/main.ab55577b.js",
+    "static/js/787.2cc4d09c.chunk.js": "/Nep-Punks/static/js/787.2cc4d09c.chunk.js",
+    "static/media/weth.png": "/Nep-Punks/static/media/weth.4101f1dacb92484cfd3f.png",
+    "static/media/cryptopunk-logo.png": "/Nep-Punks/static/media/cryptopunk-logo.8bee49d57faa44bb66f5.png",
+    "index.html": "/Nep-Punks/index.html",
+    "main.c946a49a.css.map": "/Nep-Punks/static/css/main.c946a49a.css.map",
+    "main.ab55577b.js.map": "/Nep-Punks/static/js/main.ab55577b.js.map",
+    "787.2cc4d09c.chunk.js.map": "/Nep-Punks/static/js/787.2cc4d09c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c946a49a.css",
+    "static/js/main.ab55577b.js"
+  ]
+}
