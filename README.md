@@ -6,4 +6,4 @@
 
 ### This Website Is Built Using React.js For The Frontend Part Of The Website 
 
-### All The Content That You Are Seeing On The Demo Is Pulled From The Test API Given By Open Sea And The Third Web Integeration 
+### All The Content That You Are Seeing On The Demo Is Pulled From The Test API Given By Open Sea And The Third Web Integeration Is Done For The NFTS ( Minted On The Third Web )
